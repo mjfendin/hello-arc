@@ -35,5 +35,3 @@ HELLOARCHITECT_ADDRESS="ChangeYourContractAddress"
 ```bash
 chmod +x deploy_and_verify.sh
 ./deploy_and_verify.sh
-
----
