@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Features
+## 🎯 Features
 
 - Auto deploy smart contract using Foundry  
 - Automatically extract contract address from logs  
@@ -21,8 +21,18 @@
 - Includes “Powered by 0xjfmjf” footer  
 
 ---
+
+## 🚀 Change .env
+
+PRIVATE_KEY="ChangeYourPrivateKey"
+HELLOARCHITECT_ADDRESS="ChangeYourContractAddress"
+
+---
+
 ## 🚀 Deploy
 ### Run locally:
 ```bash
 chmod +x deploy_and_verify.sh
 ./deploy_and_verify.sh
+
+---
