@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mjfendin/hello-arc/main/assets/arc-logo.png" width="120" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f01f7ca9-6823-40da-8f98-5c4ef613da85" /><img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f490d405-1b90-49b9-87e8-161ba8ef0cb4" /><p align="center">
+  <img src="https://pbs.twimg.com/profile_images/1955238194443849732/sHyVRItm_400x400.jpg" width="120" />
 </p>
 
 <h1 align="center">ARC Network — Auto Deploy & Verify Script</h1>
