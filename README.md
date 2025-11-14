@@ -21,5 +21,3 @@
 - Includes “Powered by 0xjfmjf” footer  
 
 ---
-
-## 📁 Project Structure
