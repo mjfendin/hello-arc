@@ -21,3 +21,10 @@
 - Includes “Powered by 0xjfmjf” footer  
 
 ---
+## 🚀 Deploy
+### Run locally:
+```bash
+chmod +x deploy_and_verify.sh
+
+```bash
+./deploy_and_verify.sh
