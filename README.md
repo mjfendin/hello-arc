@@ -25,6 +25,4 @@
 ### Run locally:
 ```bash
 chmod +x deploy_and_verify.sh
-
-```bash
 ./deploy_and_verify.sh
