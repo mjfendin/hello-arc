@@ -1,0 +1,29 @@
+No files changed, compilation skipped
+Script ran successfully.
+
+== Logs ==
+  Deployed HelloArchitect at: 0x5De4C0a10108650B565BCEefcDCa6A05575E834a
+
+## Setting up 1 EVM.
+
+==========================
+
+Chain 5042002
+
+Estimated gas price: 324.563365 gwei
+
+Estimated total gas used for script: 575840
+
+Estimated amount required: 0.1868965681016 ETH
+
+==========================
+
+
+==========================
+
+ONCHAIN EXECUTION COMPLETE & SUCCESSFUL.
+
+Transactions saved to: C:/Users/ELVANO/hello-arc/broadcast\DeployHelloArchitect.s.sol\5042002\run-latest.json
+
+Sensitive values saved to: C:/Users/ELVANO/hello-arc/cache\DeployHelloArchitect.s.sol\5042002\run-latest.json
+
