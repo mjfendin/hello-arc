@@ -25,6 +25,7 @@
 ## 🚀 Change .env
 
 PRIVATE_KEY="ChangeYourPrivateKey"
+
 HELLOARCHITECT_ADDRESS="ChangeYourContractAddress"
 
 ---
